@@ -324,7 +324,7 @@ I am a 3rd year Computer Games Design and Development student at Cardiff Metropo
       <ul>
         <li><b>Hierarchical State Machine:</b> Distinct logic for Explorer vs. Worker roles.</li>
         <li><b>Sensory System:</b> "Antennae" raycasts verify pheromone intensity (Left/Right/Forward).</li>
-        <li><b>Reactive Mobilization:</b> Nest only spawns Workers after Explorers confirm food location.</li>
+        <li><b>Reactive Mobilisation:</b> Nest only spawns Workers after Explorers confirm food location.</li>
         <li><b>Smart Wander:</b> Agents prioritise unexplored grid nodes to maximise efficiency.</li>
       </ul>
     </td>

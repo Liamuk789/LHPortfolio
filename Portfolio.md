@@ -85,7 +85,7 @@ I am a 3rd year Computer Games Design and Development student at Cardiff Metropo
 
 
 
-<h1 align="center"> Projects </h1>
+<h1 align="center"> <strong> Projects </strong> </h1>
 
 </div>
 
@@ -93,7 +93,7 @@ I am a 3rd year Computer Games Design and Development student at Cardiff Metropo
 
 # IsoGame [WIP Title] (Level Generation) (2026)
 
-***IsoGame*** is a solo-developed top-down isometric action RPG roguelite built in Unreal Engine 5. I am currently building out the procedural level generator, tackling the challenges of map layout and tile connections.
+***IsoGame*** is a solo-developed top-down isometric action RPG roguelite built in Unreal Engine 5. I am building out the procedural level generator, tackling the challenges of connection logic and capping off dead end paths.
 
 
 <div align="center">
@@ -303,7 +303,7 @@ I am a 3rd year Computer Games Design and Development student at Cardiff Metropo
 
 <br>
 
-<h2><div align="center">Contributions</div></h2>
+<h2><div align="center">Key Features</div></h2>
 
 <div align="center">
 
@@ -507,7 +507,55 @@ The created animations were :
 <br>
 <br>
 
-<h1 align="center"> Game Jam's </h1>
+<h1 align="center"><strong> Game Jam's </strong></h1>
+
+# Bizarre Bazaar (2026)
+
+<br>
+
+<div align="left">
+  <img src="Images/GameJam/GGJ00_Logo_Dark.png" alt="GGJ Logo" width="15%" />
+
+<br>
+<br>
+
+**Bizarre Bazaar** is set within a bustling market, somewhere in this market is your doppelganger. Find the helpful teleporting hint giver who will help you identify the doppelganger one attribute at a time before its too late.
+
+This was developed as part of a seven person team within **Unity** for the *"Mask"* themed Global Game Jam 2026.
+
+During this Game Jam I contributed across many areas, including asset collation and editing, level design and the hint giver logic, audio and visuals. 
+
+
+<div align="center">
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="Images/BizarreBazaar/MarketWander.gif" alt="Death Screen" width="100%" />
+    </td>
+    <td width="33%">
+      <img src="Images/BizarreBazaar/Market.png" alt="Explorer Game Mode" width="100%" />
+    </td>
+    <td width="33%">
+      <img src="Images/BizarreBazaar/HintGiver.gif" alt="Explorer Game Mode" width="100%" />
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://globalgamejam.org/games/2026/bizarre-bazaar-8">
+    <img src="https://img.shields.io/badge/Jam_Page-181717?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAyMUg1Yy0xLjEgMC0yLS45LTItMlY1YzAtMS4xLjktMiAyLTJoMTFsNSA1djExYzAgMS4xLS45IDItMiAyek01IDV2MTRoMTRWOC44TDE1LjIgNUg1em0xMCAxNHYtNEg5djRoNnptMC0xNHY0SDlWNWg2eiIvPjwvc3ZnPg==&logoColor=white" width="30%" />
+  </a>
+</p>
+
+**Engine and Tools :** Unity, C# Scripting, GIT
+
+<br>
+
+
+
 
 # Bubbletro (2025)
 
@@ -521,7 +569,7 @@ The created animations were :
 
 The idea behind **Bubbletro** was to create a blend of arcade action-puzzle and rogue-like deck builder where players have to shoot matching coloured bubbles to collect money to spend in-between rounds.
 
-This was developed as part of a five person team within **Unity** for the *"Bubble"* themed Global Game Jam 2025.
+This was developed as part of a four person team within **Unity** for the *"Bubble"* themed Global Game Jam 2025.
 
 During development I acted as a flexible team member, assisting with asset integration while performing playtests to identify bugs and balancing gameplay variables.
 
@@ -539,6 +587,12 @@ During development I acted as a flexible team member, assisting with asset integ
 </div>
 
 <br>
+
+<p align="center">
+  <a href="https://globalgamejam.org/games/2025/bubbletro-3">
+    <img src="https://img.shields.io/badge/Jam_Page-181717?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAyMUg1Yy0xLjEgMC0yLS45LTItMlY1YzAtMS4xLjktMiAyLTJoMTFsNSA1djExYzAgMS4xLS45IDItMiAyek01IDV2MTRoMTRWOC44TDE1LjIgNUg1em0xMCAxNHYtNEg5djRoNnptMC0xNHY0SDlWNWg2eiIvPjwvc3ZnPg==&logoColor=white" width="30%" />
+  </a>
+</p>
 
 **Engine and Tools :** Unity, C# Scripting, GIT
 

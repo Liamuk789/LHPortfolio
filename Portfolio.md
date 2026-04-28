@@ -91,6 +91,103 @@ I am a 3rd year Computer Games Design and Development student at Cardiff Metropo
 
 <br>
 
+# Populous II Remake (VR/PC/Switch) (2026)
+
+***Populous II*** is a remake of Bullfrog's title *“Populous II: Trials of the Olympian Gods”*, a strategy god game where the player takes control of a God, manipulating the terrain with powers to expand your civilisation. This project was created as part of a three person team using **Unity** and has been developed to work across multiple platforms including VR, PC and Nintendo Switch.
+
+<div align="center">
+  
+  <table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="Images/PopulasIIRemake/Controller.gif" alt="VR Controllers" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/PopulasIIRemake/Masks.gif" alt="Mask Selection" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/PopulasIIRemake/Power.gif" alt="Fire Power" width="100%" />
+    </td>
+    <tr>
+    <td width="33%" align="center">
+      <img src="Images/PopulasIIRemake/GridAndClaimArea.png" alt="PC Gameplay 1" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/PopulasIIRemake/PCGameplay2.gif" alt="Grid And Claim Area" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/PopulasIIRemake/GameLandscape.png" alt="PC Gameplay 2" width="100%" />
+    </td>
+  </tr>
+  </tr>
+  </table>
+
+  <br>
+
+
+</div>
+
+
+
+<h2 align="center">Contributions</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th width="33%">
+        <div align="center">Multi Platform</div>
+    </th>
+    <th width="33%">
+        <div align="center">Pleb and Building Logic</div>
+    </th>
+    <th width="33%">
+        <div align="center">Object Pools</div>
+    </th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><b>Input System:</b> Leveraged Unity's input action system to map uniform controls across multiple platforms with varying control schemes.</li>
+        <li><b>XR Toolkit:</b> Utilised Unity's XR interaction toolkit to adapt mechanics into VR.</li>
+        <li><b>Adapted UI:</b> UI specific for each platform. Screen space canvases for PC and Console, Attached to the XR controller for VR.</li>
+      </ul>
+    </td>
+    <td valign="top" >
+      <ul>
+        <li><b>Grid Based Movement:</b> "Plebs" navigate using the underlying 3D grid traversing the constantly shifting terrain.</li>
+        <li><b>Building Placement Check:</b> Developed a tiered upgrade/downgrade logic where buildings check the grid for height uniformity, occupied nodes and required upgrade area.</li>
+        <li><b>Population:</b> Tiered coroutine based breeding with population limits for each building. Carries over population to different tiers.</li>
+        <li><b>Event Driven:</b> Event system used to broadcast localised events when the 3D grid/terrain is modified triggering building and pleb logic.</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Custom Tiered Pools:</b> Dictionaries and Queues utilised to manage spawning for tiered buildings and AI units.</li>
+        <li><b>In Editor Tools:</b> Exposure of pooling logic to the Unity inspector allowing for tuning/testing in editor.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- <a href="https://gist.github.com/Liamuk789/55517f5c43a5868393c080249b2e6bac">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" width="30%" />
+</a> -->
+
+</div>
+
+<br>
+
+**Engine and Tools :** Unity, C# Scripting, Valve Index, Nintendo Switch Dev-Kit, GIT
+
+---
+
+<br>
+<br>
+<br>
+
 # IsoGame [WIP Title] (Level Generation) (2026)
 
 ***IsoGame*** is a solo-developed top-down isometric action RPG roguelite built in Unreal Engine 5. I am building out the procedural level generator, tackling the challenges of connection logic and capping off dead end paths.

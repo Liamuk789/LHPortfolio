@@ -31,9 +31,11 @@ I am a 3rd year Computer Games Design and Development student at Cardiff Metropo
 
 <h1 align="center"> Contact Info</h1>
 
-<a href="mailto:liamhancox.lh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" height="40" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
+  <a href="mailto:liamhancox.lh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" height="40" alt="Contact Me via Email" />
+  </a>
+</p>
 <a href="https://www.linkedin.com/in/liam-hancox">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="40" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -164,7 +166,7 @@ I am a 3rd year Computer Games Design and Development student at Cardiff Metropo
     <td valign="top">
       <ul>
         <li><b>Custom Tiered Pools:</b> Dictionaries and Queues utilised to manage spawning for tiered buildings and AI units.</li>
-        <li><b>In Editor Tools:</b> Exposure of pooling logic to the Unity inspector allowing for tuning/testing in editor.</li>
+        <li><b>In-Editor Exposure:</b> Exposure of pooling logic to the Unity inspector allowing for tuning/testing in editor.</li>
       </ul>
     </td>
   </tr>

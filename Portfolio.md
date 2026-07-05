@@ -3,7 +3,7 @@
 # Liam Hancox - Game Developer Portfolio
 ### 2023 - 2026
 
-### A Game Design & Development Student & Aspiring Game Developer
+### A Game Design & Development Graduate & Aspiring Game Developer
 
 <br>
 
@@ -22,7 +22,7 @@
 
 <br>
 
-I am a 3rd year Computer Games Design and Development student at Cardiff Metropolitan University interested in gameplay programming and systems architecture but mainly love the challenge of bringing a game and it's world to life. I have experience in both C# and C++ utilising them within the Unity and Unreal Engines. I enjoy collaborative environments and have taken part in several Game Jams (Global and University events), which have allowed me to adapt to different roles and tight deadlines. I'm always looking for new challenges and opportunities, so please get in touch if you have any questions.
+I am a First-Class BSc Computer Games Design and Development graduate from Cardiff Metropolitan University interested in gameplay programming and systems architecture but mainly love the challenge of bringing a game and it's world to life. I have experience in both C# and C++ utilising them within the Unity and Unreal Engines. I enjoy collaborative environments and have taken part in several Game Jams (Global and University events), which have allowed me to adapt to different roles and tight deadlines. I'm always looking for new challenges and opportunities, so please get in touch if you have any questions.
 
 <br>
 <br>

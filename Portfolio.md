@@ -113,7 +113,7 @@ I am a First-Class BSc Computer Games Design and Development graduate from Cardi
     </tr>
     <tr>
       <td width="33%" align="center">
-        <img src="Images/VisualDiss/secretroom.gif" alt="Contrasting Lighting to secret room" width="100%" />
+        <img src="Images/VisualDiss/SecretRoom.gif" alt="Contrasting Lighting to secret room" width="100%" />
       </td>
       <td width="33%" align="center">
         <img src="Images/VisualDiss/Heatmaps.png" alt="Map top down with heatmaps overlay" width="100%" />
@@ -124,7 +124,7 @@ I am a First-Class BSc Computer Games Design and Development graduate from Cardi
     </tr>
     <tr>
       <td colspan="3" align="center">
-        <img src="Images/VisualDiss/lighting.png" alt="Contrasting lighting across both test environments" width="100%" />
+        <img src="Images/VisualDiss/Lighting.png" alt="Contrasting lighting across both test environments" width="100%" />
       </td>
     </tr>
   </table>

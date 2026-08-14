@@ -102,29 +102,29 @@ I am a First-Class BSc Computer Games Design and Development graduate from Cardi
     <!-- Row 1 -->
     <tr>
       <td width="33%" align="center">
-        <img src="Images/VisualDiss/Room1.gif" alt="VR Controllers" width="100%" />
+        <img src="Images/VisualDiss/Room1.gif" alt="First Section of testing area" width="100%" />
       </td>
       <td width="33%" align="center">
-        <img src="Images/VisualDiss/Planks.png" alt="Mask Selection" width="100%" />
+        <img src="Images/VisualDiss/Planks.png" alt="Non-painted and painted planks" width="100%" />
       </td>
       <td width="33%" align="center">
-        <img src="Images/VisualDiss/Climbing.gif" alt="Fire Power" width="100%" />
+        <img src="Images/VisualDiss/Climbing.gif" alt="Climbing Pillars" width="100%" />
       </td>
     </tr>
     <tr>
       <td width="33%" align="center">
-        <img src="Images/VisualDiss/secretroom.gif" alt="PC Gameplay 1" width="100%" />
+        <img src="Images/VisualDiss/secretroom.gif" alt="Contrasting Lighting to secret room" width="100%" />
       </td>
       <td width="33%" align="center">
-        <img src="Images/VisualDiss/Heatmaps.png" alt="Grid And Claim Area" width="100%" />
+        <img src="Images/VisualDiss/Heatmaps.png" alt="Map top down with heatmaps overlay" width="100%" />
       </td>
       <td width="33%" align="center">
-        <img src="Images/VisualDiss/Pathway.gif" alt="PC Gameplay 2" width="100%" />
+        <img src="Images/VisualDiss/Pathway.gif" alt="Painted Pathway section" width="100%" />
       </td>
     </tr>
     <tr>
       <td colspan="3" align="center">
-        <img src="Images/VisualDiss/lighting.png" alt="Lighting" width="100%" />
+        <img src="Images/VisualDiss/lighting.png" alt="Contrasting lighting across both test environments" width="100%" />
       </td>
     </tr>
   </table>

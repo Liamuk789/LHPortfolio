@@ -93,6 +93,106 @@ I am a First-Class BSc Computer Games Design and Development graduate from Cardi
 
 <br>
 
+# Evaluating the Effectiveness of Visual Affordances using Spatial Telemetry *(Visual Cues Dissertation)* (2026)
+
+***Evaluating the Effectiveness of Visual Affordances using Spatial Telemetry*** is a custom 3D testing environment designed to analyse how players naturally navigate virtual spaces. The project evaluates the behavioural and psychological impacts of diegetic visual cues, such as contrasting lighting and high-visibility paint comparing them against a control environment devoid of those navigational aids. This project was developed as a solo final-year dissertation using Unreal Engine 5, featuring a custom telemetry system to track, record, and visualise player movement via dynamic heatmaps.
+
+<div align="center">
+  <table width="100%">
+    <!-- Row 1 -->
+    <tr>
+      <td width="33%" align="center">
+        <img src="Images/VisualDiss/Room1.gif" alt="VR Controllers" width="100%" />
+      </td>
+      <td width="33%" align="center">
+        <img src="Images/VisualDiss/Planks.png" alt="Mask Selection" width="100%" />
+      </td>
+      <td width="33%" align="center">
+        <img src="Images/VisualDiss/Climbing.gif" alt="Fire Power" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center">
+        <img src="Images/VisualDiss/secretroom.gif" alt="PC Gameplay 1" width="100%" />
+      </td>
+      <td width="33%" align="center">
+        <img src="Images/VisualDiss/Heatmaps.png" alt="Grid And Claim Area" width="100%" />
+      </td>
+      <td width="33%" align="center">
+        <img src="Images/VisualDiss/Pathway.gif" alt="PC Gameplay 2" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <img src="Images/VisualDiss/lighting.png" alt="Lighting" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<h2 align="center" style="margin-top: 0px; margin-bottom: 15px;">Contributions</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th width="33%">
+        <div align="center">Spatial Telemetry & Heatmaps</div>
+    </th>
+    <th width="33%">
+        <div align="center">Data Analytics Pipeline</div>
+    </th>
+    <th width="33%">
+        <div align="center">Level Design & Visual Cues</div>
+    </th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><b>Real-Time Tracking:</b> Developed a continuous ray-cast system mapping the player's 3D world coordinates to a 2D normalised UV space using Blueprints.</li>
+        <li><b>Dynamic Rendering:</b> Utilised Unreal's Render Targets to generate raw greyscale accumulation maps, translating them into human-readable thermal heatmaps via dynamic colour gradients.</li>
+        <li><b>Automated Export:</b> Engineered a system to dynamically bake rendering passes and automatically export unique heatmap PNG files upon session completion.</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Event-Driven Checkpoints:</b> Built spatial volumes triggering overlap events to log navigational decisions while  cleaning up partner checkpoints to prevent redundant data.</li>
+        <li><b>Precision Timing:</b> Implemented absolute clock tracking to record precise traversal metrics across different level sections, mitigating frame-rate-dependent data fluctuation.</li>
+        <li><b>CSV Generation:</b> Designed custom user structs and a persistent Game Instance array to format, concatenate, and export player metrics into structured CSV files.</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Iterative Environment:</b> Designed a 3-stage UE5 testing artefact (Climbing, Corridor, Maze) to isolate and measure specific spatial reasoning and cognitive load mechanics.</li>
+        <li><b>Diegetic Affordances:</b> Implemented contrasting environmental cues, including high-contrast paint and lighting along with red/green colour biases to subconsciously guide players.</li>
+        <li><b>Custom Materials:</b> Created a masked blend material that manipulates vertex colour data into material opacity, allowing seamless painting of diegetic pathways directly onto level geometry.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- <a href="https://gist.github.com/Liamuk789/55517f5c43a5868393c080249b2e6bac">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" width="30%" />
+</a> -->
+
+</div>
+
+<br>
+
+**Engine and Tools :** Unreal Engine, Blueprints, GIT
+
+---
+
+<br>
+<br>
+<br>
+
+
+<br>
+
 # Populous II Remake (VR/PC/Switch) (2026)
 
 ***Populous II*** is a remake of Bullfrog's title *“Populous II: Trials of the Olympian Gods”*, a strategy god game where the player takes control of a God, manipulating the terrain with powers to expand your civilisation. This project was created as part of a three person team using **Unity** and has been developed to work across multiple platforms including VR, PC and Nintendo Switch.
